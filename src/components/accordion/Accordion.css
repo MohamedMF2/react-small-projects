@@ -22,7 +22,7 @@
 }
 
 .accordion__item {
-  background: #071952;
+  background: #131842;
   margin-bottom: 10px;
   padding: 10px 20px;
   display: flex;
@@ -32,7 +32,7 @@
 }
 
 .accordion__title {
-  color: #ffffff;
+  color: #ECCEAE;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -40,10 +40,8 @@
 }
 
 .accordion__content {
-  color: #ffffff;
+  color: #fff;
   height: auto;
-}
-
-.light-box-shadow {
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  margin-bottom: 10px;
 }
